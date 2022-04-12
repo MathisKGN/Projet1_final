@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T16:37:15.150156700Z</date>
+  <millis>1649781435150</millis>
+  <nanos>156700</nanos>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>
+DEUXIÈME TEST</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:15.161034500Z</date>
+  <millis>1649781435161</millis>
+  <nanos>34500</nanos>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>INITIALISER LA PAGECONNEXION</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:15.181963600Z</date>
+  <millis>1649781435181</millis>
+  <nanos>963600</nanos>
+  <sequence>3</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SE LOGGER</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:16.608520800Z</date>
+  <millis>1649781436608</millis>
+  <nanos>520800</nanos>
+  <sequence>4</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>OUVRIR LA PAGE MACHINES</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:19.741649700Z</date>
+  <millis>1649781439741</millis>
+  <nanos>649700</nanos>
+  <sequence>5</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>CRÉER UNE MACHINE</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:20.078334800Z</date>
+  <millis>1649781440078</millis>
+  <nanos>334800</nanos>
+  <sequence>6</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AJOUTER UNE NOUVELLE MACHINE ("MACHINETEST1", "MACHINETEST1", "RESSOURCE NORMALE</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:20.492163700Z</date>
+  <millis>1649781440492</millis>
+  <nanos>163700</nanos>
+  <sequence>7</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>ANNULER L'ACTION</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:21.387678500Z</date>
+  <millis>1649781441387</millis>
+  <nanos>678500</nanos>
+  <sequence>8</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SUPPRIMER LA MACHINÉE CRÉÉE</message>
+</record>
+</log>

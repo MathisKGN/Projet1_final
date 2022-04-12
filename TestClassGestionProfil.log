@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T16:37:35.387305600Z</date>
+  <millis>1649781455387</millis>
+  <nanos>305600</nanos>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>
+DEUXIÈME TEST</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:35.399265500Z</date>
+  <millis>1649781455399</millis>
+  <nanos>265500</nanos>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>INITIALISER LA PAGECONNEXION</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:35.416210100Z</date>
+  <millis>1649781455416</millis>
+  <nanos>210100</nanos>
+  <sequence>3</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SE LOGGER</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:36.728990400Z</date>
+  <millis>1649781456728</millis>
+  <nanos>990400</nanos>
+  <sequence>4</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>OUVRIR LA PAGE PROFILS</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:39.676298900Z</date>
+  <millis>1649781459676</millis>
+  <nanos>298900</nanos>
+  <sequence>5</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>CRÉER UN PROFIL</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:40.122639500Z</date>
+  <millis>1649781460122</millis>
+  <nanos>639500</nanos>
+  <sequence>6</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AJOUTER UN PROFIL</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:40.150548Z</date>
+  <millis>1649781460150</millis>
+  <nanos>548000</nanos>
+  <sequence>7</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AJOUTER UN RÔLE</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:42.898105400Z</date>
+  <millis>1649781462898</millis>
+  <nanos>105400</nanos>
+  <sequence>8</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AJOUTER 2E ET 3E RÔLES</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:48.379706500Z</date>
+  <millis>1649781468379</millis>
+  <nanos>706500</nanos>
+  <sequence>9</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>UN RÔLE DÉJÀ AJOUTÉ DANS LA LISTE DÉROULANTE</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:51.115557Z</date>
+  <millis>1649781471115</millis>
+  <nanos>557000</nanos>
+  <sequence>10</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SUPPRIMER LE RÔLE AJOUTÉ</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:54.256595700Z</date>
+  <millis>1649781474256</millis>
+  <nanos>595700</nanos>
+  <sequence>11</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>ENREGISTRER LE PROFIL</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:54.549627700Z</date>
+  <millis>1649781474549</millis>
+  <nanos>627700</nanos>
+  <sequence>12</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MODIFIER LE PROFIL</message>
+</record>
+<record>
+  <date>2022-04-12T16:37:54.808678900Z</date>
+  <millis>1649781474808</millis>
+  <nanos>678900</nanos>
+  <sequence>13</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MODIFIER UN PROFIL - AJOUT DE PLUSIEURS RÔLES</message>
+</record>
+<record>
+  <date>2022-04-12T16:38:02.943888400Z</date>
+  <millis>1649781482943</millis>
+  <nanos>888400</nanos>
+  <sequence>14</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>CHANGER LE NOM DU PROFIL</message>
+</record>
+<record>
+  <date>2022-04-12T16:38:03.242036600Z</date>
+  <millis>1649781483242</millis>
+  <nanos>36600</nanos>
+  <sequence>15</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SUPPRIMER LE PROFIL</message>
+</record>
+</log>
