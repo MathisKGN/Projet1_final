@@ -1,11 +1,17 @@
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
 import java.util.List;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class PageAccueil extends PageBandeau implements PageInterfaceJDD  {
 	
@@ -49,13 +55,14 @@ public class PageAccueil extends PageBandeau implements PageInterfaceJDD  {
 	@FindBy(xpath = "//tr[@valign='top']//span[text()='Calendrier']")
     public WebElement fil_d_ariane_calendrier;
 
+	@FindBy(xpath = "/html/body/div[1]/div/div[1]/div[2]/div/div/div/div[2]/div/div/span/div/div/div[2]/div/div/div/div/div[3]/div/div[3]/table/tbody[2]/tr/td[9]/div/table/tbody/tr/td/table/tbody/tr/td[3]")
+    public WebElement bouton_supprimer_projet1;
 
 	//Xpath - Test 5-2 - Mathis
 	@FindBy(xpath="//tbody/tr/td/table/tbody/tr/td[.=\"Liste des projets\"]")
 	public WebElement bouton_ListeProjet;
 	
 
-	
 	public PageAccueil(WebDriver driver) {
 		super(driver);
 		// TODO Auto-generated constructor stub
@@ -75,15 +82,9 @@ public class PageAccueil extends PageBandeau implements PageInterfaceJDD  {
 	
 	//Test 5-1 -Mathis
 	public PageAccueil CreerNouveauProjet() {
-		
+		wait = new WebDriverWait(driver, 15);
 		//Pause sinon ca marche pas ca cours
-		try {
-			Thread.sleep(3000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
+	    wait.until(ExpectedConditions.visibilityOf(bouton_NouveauProjet));
 		//pas de test 2 
 		bouton_NouveauProjet.click();
 		try {
@@ -102,10 +103,10 @@ public class PageAccueil extends PageBandeau implements PageInterfaceJDD  {
 		int jourInt = Integer.parseInt(jour);
 		int jour5 = jourInt + 5;
 		int jour15 = jourInt + 15;
-		WebElement calendrier_j5 = driver.findElement(By.xpath("//table[@id='_z_4-mid']/tbody/tr/td[@_dt='" + jour5 +"']"));
+		WebElement calendrier_j5 = driver.findElement(By.xpath("//table[@id='_z_4-mid']/tbody/tr/td[@_dt='" + jour5 +"' and not (@class='z-calendar-wkday z-outside')]"));;
 		calendrier_j5.click();
 		bouton_CalendrierEcheance.click();
-		WebElement calendrier_j15 = driver.findElement(By.xpath("//table[@id='_z_6-mid']/tbody/tr/td[@_dt='" + jour15 +"']"));
+		WebElement calendrier_j15 = driver.findElement(By.xpath("//table[@id='_z_6-mid']/tbody/tr/td[@_dt='" + jour15 + "' and not (@class='z-calendar-wkday z-outside')]"));
 		calendrier_j15.click();
 		bouton_Accepter.click();
 		//La page change un peu donc par précaution je la recharge
@@ -169,6 +170,12 @@ public class PageAccueil extends PageBandeau implements PageInterfaceJDD  {
 		return PageFactory.initElements(driver, PageProfils.class);
 	}
 	
+	public void supprimerProjet() throws AWTException {
+		bouton_supprimer_projet1.click();
+		Robot r = new Robot();
+		r.keyPress(KeyEvent.VK_ENTER);
+		r.keyRelease(KeyEvent.VK_ENTER);
+	}
 	}
 
 

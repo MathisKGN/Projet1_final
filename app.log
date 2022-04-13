@@ -195,3 +195,543 @@ Session ID: 59bdcccd-4df0-4e96-9be5-f3f9a85e3673</message>
   <message>Exception while taking screenshot Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[2]/div/div/div/div[2]/div/div/div/div/table/tbody/tr/td/table/tbody/tr[5]/td/div/span' (tried for 15 second(s) with 500 milliseconds interval)</message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T17:05:22.982352400Z</date>
+  <millis>1649783122982</millis>
+  <nanos>352400</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T17:05:27.248158100Z</date>
+  <millis>1649783127248</millis>
+  <nanos>158100</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T18:54:04.693998500Z</date>
+  <millis>1649789644693</millis>
+  <nanos>998500</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T18:54:07.696821400Z</date>
+  <millis>1649789647696</millis>
+  <nanos>821400</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:02:02.021476700Z</date>
+  <millis>1649790122021</millis>
+  <nanos>476700</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:02:05.152231600Z</date>
+  <millis>1649790125152</millis>
+  <nanos>231600</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:11:13.022823700Z</date>
+  <millis>1649790673022</millis>
+  <nanos>823700</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:11:17.229280Z</date>
+  <millis>1649790677229</millis>
+  <nanos>280000</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+<record>
+  <date>2022-04-12T19:11:38.325328700Z</date>
+  <millis>1649790698325</millis>
+  <nanos>328700</nanos>
+  <sequence>3</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Exception while taking screenshot Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[2]/div/div/div/div[2]/div/div/div/div/table/tbody/tr/td/table/tbody/tr[5]/td/div/span' (tried for 15 second(s) with 500 milliseconds interval)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:11:51.393342500Z</date>
+  <millis>1649790711393</millis>
+  <nanos>342500</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:11:55.098088700Z</date>
+  <millis>1649790715098</millis>
+  <nanos>88700</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+<record>
+  <date>2022-04-12T19:12:11.391264500Z</date>
+  <millis>1649790731391</millis>
+  <nanos>264500</nanos>
+  <sequence>3</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Exception while taking screenshot Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class="z-dottree-ico z-dottree-firstspacer"]/following-sibling::span[contains(text(),"Calendrier - Test 1")]' (tried for 15 second(s) with 500 milliseconds interval)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:12:58.647069900Z</date>
+  <millis>1649790778647</millis>
+  <nanos>69900</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:13:02.460027100Z</date>
+  <millis>1649790782460</millis>
+  <nanos>27100</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+<record>
+  <date>2022-04-12T19:13:23.050922100Z</date>
+  <millis>1649790803050</millis>
+  <nanos>922100</nanos>
+  <sequence>3</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Exception while taking screenshot Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[2]/div/div/div/div[2]/div/div/div/div/table/tbody/tr/td/table/tbody/tr[5]/td/div/span' (tried for 15 second(s) with 500 milliseconds interval)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:14:26.342379300Z</date>
+  <millis>1649790866342</millis>
+  <nanos>379300</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:14:29.370885700Z</date>
+  <millis>1649790869370</millis>
+  <nanos>885700</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:15:00.841634400Z</date>
+  <millis>1649790900841</millis>
+  <nanos>634400</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:15:04.760551800Z</date>
+  <millis>1649790904760</millis>
+  <nanos>551800</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:15:38.531654900Z</date>
+  <millis>1649790938531</millis>
+  <nanos>654900</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:15:42.587987400Z</date>
+  <millis>1649790942587</millis>
+  <nanos>987400</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:16:54.809550100Z</date>
+  <millis>1649791014809</millis>
+  <nanos>550100</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:16:58.390226200Z</date>
+  <millis>1649791018390</millis>
+  <nanos>226200</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:17:32.037974100Z</date>
+  <millis>1649791052037</millis>
+  <nanos>974100</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:17:35.793903800Z</date>
+  <millis>1649791055793</millis>
+  <nanos>903800</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:19:07.048860500Z</date>
+  <millis>1649791147048</millis>
+  <nanos>860500</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:19:09.707704700Z</date>
+  <millis>1649791149707</millis>
+  <nanos>704700</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:19:25.223753800Z</date>
+  <millis>1649791165223</millis>
+  <nanos>753800</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:19:27.921780500Z</date>
+  <millis>1649791167921</millis>
+  <nanos>780500</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:19:48.407926900Z</date>
+  <millis>1649791188407</millis>
+  <nanos>926900</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:19:51.973989600Z</date>
+  <millis>1649791191973</millis>
+  <nanos>989600</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:26:42.878628600Z</date>
+  <millis>1649791602878</millis>
+  <nanos>628600</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:26:46.646394900Z</date>
+  <millis>1649791606646</millis>
+  <nanos>394900</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:27:19.410574500Z</date>
+  <millis>1649791639410</millis>
+  <nanos>574500</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:27:23.071216Z</date>
+  <millis>1649791643071</millis>
+  <nanos>216000</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T19:29:30.373726200Z</date>
+  <millis>1649791770373</millis>
+  <nanos>726200</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-12T19:29:33.822424600Z</date>
+  <millis>1649791773822</millis>
+  <nanos>424600</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-13T08:13:40.817378800Z</date>
+  <millis>1649837620817</millis>
+  <nanos>378800</nanos>
+  <sequence>1</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>INFO</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-13T08:13:47.256698200Z</date>
+  <millis>1649837627256</millis>
+  <nanos>698200</nanos>
+  <sequence>2</sequence>
+  <logger>TestCreationCalendrierClass</logger>
+  <level>SEVERE</level>
+  <class>TestCreationCalendrierClass</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>

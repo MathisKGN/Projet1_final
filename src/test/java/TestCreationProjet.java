@@ -41,7 +41,9 @@ public class TestCreationProjet {
 	@After
 
 	public void teardown() {
-		//driver.quit();
+	   // PageAccueil pageAccueil = PageFactory.initElements(driver, PageAccueil.class);
+	   // pageAccueil.bouton_supprimer_projet1.click();
+		driver.quit();
 	}
 
 	
@@ -65,6 +67,26 @@ public class TestCreationProjet {
 		pageListeProjets.verifTableau();
 		
 
+	}
+	
+	@Test
+	public void test5_2() throws Exception {
+		//Test Mathis 2 (5-2)
+		
+	    //vérifier que la page est correcte
+	    assertEquals("LibrePlan: accès utilisateur", driver.getTitle());
+	    
+	    //initialiser la PageConnexion
+	    PageConnexion page_connexion = PageFactory.initElements(driver, PageConnexion.class);
+	    
+	    //se logger
+	    page_connexion.logIn(driver, "admin", "admin");
+	    
+	    PageAccueil pageAccueil = PageFactory.initElements(driver, PageAccueil.class);
+	    PageListeProjet page_ListeProjet = pageAccueil.clickListeProjet();
+	    page_ListeProjet.ajouterTache();
+	    PageAccueil pageAccueil2 = PageFactory.initElements(driver, PageAccueil.class);
+	    pageAccueil2.supprimerProjet();
 	}
 	
 

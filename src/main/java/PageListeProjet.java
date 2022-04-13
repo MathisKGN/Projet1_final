@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -78,7 +79,7 @@ public class PageListeProjet extends PageBandeau implements PageInterfaceJDD{
         
 
 	}
-	public void ajouterTache() throws InterruptedException {
+	public PageAccueil ajouterTache() throws InterruptedException {
 		//Attente pck ca charge
 		try {
 			Thread.sleep(1400);
@@ -91,7 +92,7 @@ public class PageListeProjet extends PageBandeau implements PageInterfaceJDD{
 		
 		lien_DernierProjet.click();
 		try {
-			Thread.sleep(2000);
+			Thread.sleep(2500);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -194,8 +195,14 @@ public class PageListeProjet extends PageBandeau implements PageInterfaceJDD{
 		//Pas de test 10
 		bouton_PlanificationProjet.click();
 		
+		driver.get("http://localhost:8080/libreplan/planner/index.zul;orders_list");
+		return PageFactory.initElements(driver, PageAccueil.class);
+		
+		
 
 		
 		
 	}
+	
+
 }
